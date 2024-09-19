@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG -flto -fno-fat-lto-objects  -Wl,-z,relro -Wl,-z,now CMakeFiles/link_tester.dir/link_tester.cpp.o CMakeFiles/link_tester.dir/SharedMemory.cpp.o  -o ../../link_tester  /usr/lib/x86_64-linux-gnu/librt.so 

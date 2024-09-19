@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu20/Downloads/VoIP-software-master/3rdparty/smallft/smallft.cpp
+smallft.h
+/home/ubuntu20/Downloads/VoIP-software-master/3rdparty/smallft/smallft.h
+cmath
+-
+cstdlib
+-
+cstring
+-
+
+/home/ubuntu20/Downloads/VoIP-software-master/3rdparty/smallft/smallft.h
+

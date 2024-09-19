@@ -1,0 +1,353 @@
+{
+	"BUILD_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/shared_autogen",
+	"CMAKE_BINARY_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/src",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master",
+	"HEADERS" : 
+	[
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/3rdparty/arc4random/arc4random_uniform.h",
+			"Mu",
+			"DIHUR762KS/moc_arc4random_uniform.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/build/src/FFDHETable.h",
+			"Mu",
+			"EJRQKI7XPS/moc_FFDHETable.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/build/src/Mumble.pb.h",
+			"Mu",
+			"EJRQKI7XPS/moc_Mumble.pb.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/build/src/MumbleUDP.pb.h",
+			"Mu",
+			"EJRQKI7XPS/moc_MumbleUDP.pb.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/Ban.h",
+			"Mu",
+			"EWIEGA46WW/moc_Ban.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/ByteSwap.h",
+			"Mu",
+			"EWIEGA46WW/moc_ByteSwap.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/EnvUtils.h",
+			"Mu",
+			"EWIEGA46WW/moc_EnvUtils.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/FFDHE.h",
+			"Mu",
+			"EWIEGA46WW/moc_FFDHE.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/HTMLFilter.h",
+			"Mu",
+			"EWIEGA46WW/moc_HTMLFilter.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/HostAddress.h",
+			"Mu",
+			"EWIEGA46WW/moc_HostAddress.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/License.h",
+			"Mu",
+			"EWIEGA46WW/moc_License.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/LogEmitter.h",
+			"Mu",
+			"EWIEGA46WW/moc_LogEmitter.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/MumbleProtocol.h",
+			"Mu",
+			"EWIEGA46WW/moc_MumbleProtocol.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/Net.h",
+			"Mu",
+			"EWIEGA46WW/moc_Net.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/OSInfo.h",
+			"Mu",
+			"EWIEGA46WW/moc_OSInfo.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/PasswordGenerator.h",
+			"Mu",
+			"EWIEGA46WW/moc_PasswordGenerator.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/PlatformCheck.h",
+			"Mu",
+			"EWIEGA46WW/moc_PlatformCheck.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/ProcessResolver.h",
+			"Mu",
+			"EWIEGA46WW/moc_ProcessResolver.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/ProtoUtils.h",
+			"Mu",
+			"EWIEGA46WW/moc_ProtoUtils.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/QtUtils.h",
+			"Mu",
+			"EWIEGA46WW/moc_QtUtils.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/SSL.h",
+			"Mu",
+			"EWIEGA46WW/moc_SSL.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/SSLLocks.h",
+			"Mu",
+			"EWIEGA46WW/moc_SSLLocks.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/SelfSignedCertificate.h",
+			"Mu",
+			"EWIEGA46WW/moc_SelfSignedCertificate.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/ServerAddress.h",
+			"Mu",
+			"EWIEGA46WW/moc_ServerAddress.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/ServerResolver.h",
+			"Mu",
+			"EWIEGA46WW/moc_ServerResolver.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/ServerResolverRecord.h",
+			"Mu",
+			"EWIEGA46WW/moc_ServerResolverRecord.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/Timer.h",
+			"Mu",
+			"EWIEGA46WW/moc_Timer.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/UnresolvedServerAddress.h",
+			"Mu",
+			"EWIEGA46WW/moc_UnresolvedServerAddress.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/Version.h",
+			"Mu",
+			"EWIEGA46WW/moc_Version.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/VolumeAdjustment.h",
+			"Mu",
+			"EWIEGA46WW/moc_VolumeAdjustment.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/crypto/CryptState.h",
+			"Mu",
+			"ZMIDQXK3U3/moc_CryptState.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/crypto/CryptStateOCB2.h",
+			"Mu",
+			"ZMIDQXK3U3/moc_CryptStateOCB2.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/crypto/CryptographicHash.h",
+			"Mu",
+			"ZMIDQXK3U3/moc_CryptographicHash.cpp"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/crypto/CryptographicRandom.h",
+			"Mu",
+			"ZMIDQXK3U3/moc_CryptographicRandom.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/shared_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/shared_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MUMBLE_BUILD_YEAR=2024",
+		"MUMBLE_TARGET_ARCH=\"x64\"",
+		"MUMBLE_TARGET_OS=\"linux\"",
+		"MUMBLE_VERSION=1.6.0",
+		"MUMBLE_VERSION_MAJOR=1",
+		"MUMBLE_VERSION_MINOR=6",
+		"MUMBLE_VERSION_PATCH=0",
+		"QT_CORE_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_RESTRICTED_CAST_FROM_ASCII",
+		"QT_USE_FAST_CONCATENATION",
+		"QT_USE_FAST_OPERATOR_PLUS",
+		"QT_XML_LIB",
+		"TRACY_ON_DEMAND",
+		"USE_QSSLDIFFIEHELLMANPARAMETERS",
+		"_USE_MATH_DEFINES"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/ubuntu20/Downloads/VoIP-software-master/build",
+		"/home/ubuntu20/Downloads/VoIP-software-master/src",
+		"/home/ubuntu20/Downloads/VoIP-software-master/build/src",
+		"/home/ubuntu20/Downloads/VoIP-software-master/3rdparty/arc4random",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt5/QtXml",
+		"/home/ubuntu20/Downloads/VoIP-software-master/3rdparty/tracy/public",
+		"/home/ubuntu20/Downloads/VoIP-software-master/3rdparty/gsl/include",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/shared_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/CMakeFiles/shared_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/CMakeFiles/shared_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/3rdparty/arc4random/arc4random_uniform.cpp",
+			"Mu"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/build/src/Mumble.pb.cc",
+			"Mu"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/build/src/MumbleUDP.pb.cc",
+			"Mu"
+		],
+		[ "/home/ubuntu20/Downloads/VoIP-software-master/src/Ban.cpp", "Mu" ],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/EnvUtils.cpp",
+			"Mu"
+		],
+		[ "/home/ubuntu20/Downloads/VoIP-software-master/src/FFDHE.cpp", "Mu" ],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/HTMLFilter.cpp",
+			"Mu"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/HostAddress.cpp",
+			"Mu"
+		],
+		[ "/home/ubuntu20/Downloads/VoIP-software-master/src/License.cpp", "Mu" ],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/LogEmitter.cpp",
+			"Mu"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/MumbleProtocol.cpp",
+			"Mu"
+		],
+		[ "/home/ubuntu20/Downloads/VoIP-software-master/src/OSInfo.cpp", "Mu" ],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/PasswordGenerator.cpp",
+			"Mu"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/PlatformCheck.cpp",
+			"Mu"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/ProcessResolver.cpp",
+			"Mu"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/ProtoUtils.cpp",
+			"Mu"
+		],
+		[ "/home/ubuntu20/Downloads/VoIP-software-master/src/QtUtils.cpp", "Mu" ],
+		[ "/home/ubuntu20/Downloads/VoIP-software-master/src/SSL.cpp", "Mu" ],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/SSLLocks.cpp",
+			"Mu"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/SelfSignedCertificate.cpp",
+			"Mu"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/ServerAddress.cpp",
+			"Mu"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/ServerResolver.cpp",
+			"Mu"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/ServerResolverRecord.cpp",
+			"Mu"
+		],
+		[ "/home/ubuntu20/Downloads/VoIP-software-master/src/Timer.cpp", "Mu" ],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/UnresolvedServerAddress.cpp",
+			"Mu"
+		],
+		[ "/home/ubuntu20/Downloads/VoIP-software-master/src/Version.cpp", "Mu" ],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/VolumeAdjustment.cpp",
+			"Mu"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/crypto/CryptStateOCB2.cpp",
+			"Mu"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/crypto/CryptographicHash.cpp",
+			"Mu"
+		],
+		[
+			"/home/ubuntu20/Downloads/VoIP-software-master/src/crypto/CryptographicRandom.cpp",
+			"Mu"
+		]
+	],
+	"VERBOSITY" : 0
+}

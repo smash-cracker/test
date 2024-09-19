@@ -1,0 +1,2 @@
+"/usr/bin/gcc-ar-9" cr libspeexdsp.a  CMakeFiles/speexdsp.dir/__/speexdsp/libspeexdsp/fftwrap.c.o CMakeFiles/speexdsp.dir/__/speexdsp/libspeexdsp/filterbank.c.o CMakeFiles/speexdsp.dir/__/speexdsp/libspeexdsp/jitter.c.o CMakeFiles/speexdsp.dir/__/speexdsp/libspeexdsp/mdf.c.o CMakeFiles/speexdsp.dir/__/speexdsp/libspeexdsp/preprocess.c.o CMakeFiles/speexdsp.dir/__/speexdsp/libspeexdsp/resample.c.o CMakeFiles/speexdsp.dir/__/speexdsp/libspeexdsp/scal.c.o CMakeFiles/speexdsp.dir/__/speexdsp/libspeexdsp/smallft.c.o
+"/usr/bin/gcc-ranlib-9" libspeexdsp.a

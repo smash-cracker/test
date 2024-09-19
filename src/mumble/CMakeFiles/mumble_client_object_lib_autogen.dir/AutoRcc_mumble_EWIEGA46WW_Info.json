@@ -1,0 +1,38 @@
+{
+	"BUILD_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/mumble/mumble_client_object_lib_autogen",
+	"CMAKE_BINARY_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/mumble",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/src/mumble",
+	"CMAKE_SOURCE_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master",
+	"INCLUDE_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/mumble/mumble_client_object_lib_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/ubuntu20/Downloads/VoIP-software-master/samples/on.ogg",
+		"/home/ubuntu20/Downloads/VoIP-software-master/samples/Critical.ogg",
+		"/home/ubuntu20/Downloads/VoIP-software-master/samples/TextMessage.ogg",
+		"/home/ubuntu20/Downloads/VoIP-software-master/samples/UserLeftChannel.ogg",
+		"/home/ubuntu20/Downloads/VoIP-software-master/samples/wb_male.oga",
+		"/home/ubuntu20/Downloads/VoIP-software-master/samples/off.ogg",
+		"/home/ubuntu20/Downloads/VoIP-software-master/samples/ServerConnected.ogg",
+		"/home/ubuntu20/Downloads/VoIP-software-master/icons/rec.svg",
+		"/home/ubuntu20/Downloads/VoIP-software-master/samples/ServerDisconnected.ogg",
+		"/home/ubuntu20/Downloads/VoIP-software-master/icons/mumble.svg",
+		"/home/ubuntu20/Downloads/VoIP-software-master/samples/UserJoinedChannel.ogg",
+		"/home/ubuntu20/Downloads/VoIP-software-master/icons/mumble.icns",
+		"/home/ubuntu20/Downloads/VoIP-software-master/samples/UserKickedYouOrByYou.ogg",
+		"/home/ubuntu20/Downloads/VoIP-software-master/samples/UserMutedYouOrByYou.ogg",
+		"/home/ubuntu20/Downloads/VoIP-software-master/samples/SelfMutedDeafened.ogg",
+		"/home/ubuntu20/Downloads/VoIP-software-master/samples/PermissionDenied.ogg",
+		"/home/ubuntu20/Downloads/VoIP-software-master/samples/RecordingStateChanged.ogg"
+	],
+	"LOCK_FILE" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/mumble/CMakeFiles/mumble_client_object_lib_autogen.dir/AutoRcc_mumble_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "mumble" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_mumble.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/mumble/CMakeFiles/mumble_client_object_lib_autogen.dir/AutoRcc_mumble_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/ubuntu20/Downloads/VoIP-software-master/src/mumble/mumble.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/mumble/mumble_client_object_lib_autogen",
+	"CMAKE_BINARY_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/mumble",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/src/mumble",
+	"CMAKE_SOURCE_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master",
+	"INCLUDE_DIR" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/mumble/mumble_client_object_lib_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/mumble/CMakeFiles/mumble_client_object_lib_autogen.dir/AutoRcc_mumble_flags_IZWCZGADZF_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "mumble_flags" ],
+	"OUTPUT_CHECKSUM" : "IZWCZGADZF",
+	"OUTPUT_NAME" : "qrc_mumble_flags.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/ubuntu20/Downloads/VoIP-software-master/build/src/mumble/CMakeFiles/mumble_client_object_lib_autogen.dir/AutoRcc_mumble_flags_IZWCZGADZF_Used.txt",
+	"SOURCE" : "/home/ubuntu20/Downloads/VoIP-software-master/build/mumble_flags.qrc",
+	"VERBOSITY" : 0
+}
